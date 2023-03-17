@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode", // 格式化
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "mikestead.dotenv",
+    "naumovs.color-highlight",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+  ]
+}

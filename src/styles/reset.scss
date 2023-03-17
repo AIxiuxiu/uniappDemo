@@ -1,0 +1,47 @@
+uni-view,
+uni-scroll-view,
+uni-swiper,
+uni-match-media,
+uni-movable-area,
+uni-movable-view,
+uni-cover-view,
+uni-cover-image,
+uni-icon,
+uni-text,
+uni-rich-text,
+uni-progress,
+uni-button,
+uni-checkboxe,
+uni-ditor,
+uni-form,
+uni-input,
+uni-label,
+uni-picker,
+uni-picker-view,
+uni-radio,
+uni-slider,
+uni-switch,
+uni-textarea,
+uni-navigator,
+uni-audio,
+uni-camera,
+uni-image,
+uni-video,
+uni-live-player,
+uni-live-pusher,
+uni-map,
+uni-canvas,
+uni-web-view,
+::before,
+::after {
+	box-sizing: border-box;
+}
+
+/* 隐藏scroll-view的滚动条 */
+::-webkit-scrollbar {
+	display: none;
+	width: 0 !important;
+	height: 0 !important;
+	appearance: none;
+	background: transparent;
+}
